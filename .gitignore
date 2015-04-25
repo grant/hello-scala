@@ -1,8 +1,9 @@
 *.class
 *.log
 
-# sbt specific
+.DS_Store
 .cache
+.idea
 .history
 .lib/
 dist/*
