@@ -1,0 +1,22 @@
+{
+  "name": "hello-scala",
+  "version": "1.0.0",
+  "description": "Experiments with scala.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grant/hello-scala.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grant/hello-scala/issues"
+  },
+  "homepage": "https://github.com/grant/hello-scala",
+  "dependencies": {
+    "source-map-support": "^0.2.10"
+  }
+}
