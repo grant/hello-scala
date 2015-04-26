@@ -7,6 +7,7 @@ import dom.document
 object TutorialApp extends JSApp {
   def main(): Unit = {
     println("Hello world!")
+    println("Hello hi!")
     appendPar(document.body, "Hello World")
   }
 
